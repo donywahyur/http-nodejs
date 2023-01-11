@@ -13,6 +13,6 @@ createServer((req, res) => {
     console.log('Connected!');
   });
 
-  res.write('Hallo!');
+  res.write(`Hallo! ${process.env.PORT}`);
   res.end();
 }).listen(process.env.PORT);
