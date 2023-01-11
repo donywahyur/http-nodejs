@@ -6,5 +6,15 @@
   "license": "MIT",
   "scripts": {
     "start": "node server.mjs"
-  }
+  },
+  "description": "--- title: Node HTTP Module description: A HTTP module server tags:   - http   - nodejs   - javascript ---",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/donywahyur/http-nodejs.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/donywahyur/http-nodejs/issues"
+  },
+  "homepage": "https://github.com/donywahyur/http-nodejs#readme"
 }
